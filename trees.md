@@ -24,7 +24,7 @@ A Subtree is a smaller section of a binary tree. In your original tree pick a ne
 
 Here we can see a diagram of a binary tree:
 
-![Leaf Nodes](leaf_nodes.jpg.jpg)
+![Leaf Nodes](leaf_nodes.jpg)
 
 ## BST
 
@@ -51,10 +51,10 @@ height(node) | Determine if the height of a node | O(n)
 Size() | Return the size of the BST | O(1)
 Empty() | Returns true if the root node is empty | O(1)
 
-### Example of binary tree
+## Example of binary tree
 
 ``` python
-# This is the node class
+
 class Node:
 
     def __init__(self, data):
