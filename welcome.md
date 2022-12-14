@@ -12,6 +12,7 @@ In this tutorial I will cover three data structures: Trees, Linked List and Stac
 -  [Linked List](linkedList.md)
 -  [Stack](stack.md)
 
-### Credit 
+### Credit
 
 Sebastian Gomez
+gom20015@byui.edu

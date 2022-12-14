@@ -19,13 +19,13 @@ An example of a stack, in a real-world scenario, think of a stack of plates. Whe
 
 ## Implementing Stacks
 
-Operation | Description | Time Complexity
--------- | -------- | --------
-.isEmpty() | The stack.isEmpty() method returns True if the stack is empty. Else, returns False | O(1)
-.length() | The stack.length() method returns the length of the stack. | O(1)
-.top() | The stack.top() method returns a pointer/reference to the top element in the stack. | O(1)
-push(x) | The stack.push() method inserts the element, x to the top of the stack. | O(1)
-.pop() | The stack.pop() method removes the top element of the stack and returns it. | O(1)
+Operation | Description                                                                        | Time Complexity
+----------|------------------------------------------------------------------------------------|----------------
+.isEmpty()| The stack.isEmpty() method returns True if the stack is empty. Else, returns False | O(1)
+.length() | The stack.length() method returns the length of the stack.                         | O(1)
+.top()    | The stack.top() method returns a pointer/reference to the top element in the stack.| O(1)
+.push(x)  | The stack.push() method inserts the element, x to the top of the stack.            | O(1)
+.pop()    | The stack.pop() method removes the top element of the stack and returns it.        | O(1)
 
 ## Example of Stack
 

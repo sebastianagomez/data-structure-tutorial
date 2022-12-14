@@ -40,16 +40,16 @@ A balanced binary search tree is a BST where the height between any two subtrees
 
 ## Time Complexity of Binary Search Tree
 
-Operation | Description | Time Complexity
--------- | -------- | --------
-Insert(value) | Insert value into a tree | O(log n)
-Remove(value) | Remove value from the tree | O(log n)
-Contains(value) | Determine if value exists | O(log n)
+Operation          | Description                             | Time Complexity
+-------------------|-----------------------------------------|----------------
+Insert(value)      | Insert value into a tree                | O(log n)
+Remove(value)      | Remove value from the tree              | O(log n)
+Contains(value)    | Determine if value exists               | O(log n)
 traverse_forward() | Go all objects from smallest to largest | O(n)
 traverse_reverse() | Go all objects from largest to smallest | O(n)
-height(node) | Determine if the height of a node | O(n)
-Size() | Return the size of the BST | O(1)
-Empty() | Returns true if the root node is empty | O(1)
+height(node)       | Determine if the height of a node       | O(n)
+Size()             | Return the size of the BST              | O(1)
+Empty()            | Returns true if the root node is empty  | O(1)
 
 ## Example of binary tree
 
