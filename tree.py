@@ -22,7 +22,7 @@ class Node:
             self.data = data
 
     def PrintTree(self):
-        ''' Code here '''
+        ''' Your code goes here '''
         pass
 
 # Use the insert method to add nodes
