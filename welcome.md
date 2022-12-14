@@ -9,7 +9,7 @@ In this tutorial I will cover three data structures: Trees, Linked List and Stac
 ## Links
 
 -  [Trees](trees.md)
--  [Linked List](linkedList.md)
+-  [Linked List](linked_list.md)
 -  [Stack](stack.md)
 
 ### Credit
